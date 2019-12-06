@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/fontawesome.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/all.css">
+    <title></title>
+  </head>
+  <body>
+  <!-- start upper bar -->
+  <div class="upper-bar">
+    <div class="container">
+      <div class="row">
+        <div class="left">
+          <a href="#">
+            <i class="fas fa-phone">
+            </i>
+            <label for="">XXXXXXXXXXXXX</label>
+          </a>
+          <a href="#">
+            <i class="fas fa-envelope">
+            </i>
+            <label for="">email0@gmail.com</label>
+
+          </a>
+        </div>
+        <div class="right">
+          <a href="#">
+            <i class="fab fa-facebook"></i>
+          </a>
+          <a href="#">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="#">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <!-- end upper bar -->
+  <!-- start slider -->
+  <div class="slider">
+    <div class="container">
+      <div class="intro">
+        <h2>LoCation DE Voiture</h2>
+        <h4>LoCation DE Voiture</h4>
+        <input type="button" name="suivant" value="">
+        <input type="button" name="precedent" value="">
+      </div>
+    </div>
+  </div>
+  <!-- end slider -->
+  <!-- start slider -->
+
+  <div class="features">
+    <div class="container">
+      <div class="feat">
+        <div class="icon">
+
+        </div>
+        <div class="text">
+          <p>Ambitioni dedisse scripsisse iudicaretur. Cras mattis iudicium purus sit amet fermentum. Donec sed odio operae, eu vulputate felis rhonc</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="feat">
+      </div>
+    </div>
+    <div class="feat">
+      <div class="container">
+      </div>
+    </div>
+  </div>
+  <!-- end slider -->
+
+    <script type="text/javascript" src="js/script.js">  </script>
+    <script type="text/javascript" src="js/Poper.js">  </script>
+  </body>
+</html>
